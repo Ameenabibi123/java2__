@@ -8,9 +8,12 @@ public class add {
     
             // Add the two numbers
             int sum = num1 + num2;
+            int diff = num1 - num2;
     
             // Print the result
             System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+            System.out.println("The diff of " + num1 + " and " + num2 + " is: " + diff);
+
 
             System.out.println("varshini add");
         }
